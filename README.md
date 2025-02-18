@@ -142,4 +142,4 @@ docker-compose ps
    docker-compose logs -f
 ```
 
-📄 **Read the Full Guide about Docker:** [Docker_and_Kubernates_Guide.pdf](Docker_and_Kubernates_Guide.pdf)
+📄 **Read the Full Guide about Docker:** [Docker_and_Kubernetes_Guide.pdf](./Docker_and_Kubernetes_Guide.pdf)
